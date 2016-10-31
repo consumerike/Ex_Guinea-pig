@@ -1,0 +1,51 @@
+* {
+	background-color: green;
+}
+
+body {
+	font-size: 1em;
+	color: black;
+	
+	border: 1px solid black;
+}
+
+.color {
+	color: blue;
+
+}
+
+.hulk {
+	font-size: 2em;
+
+}
+
+.border {
+	border: 3px solid black;
+}
+
+.rounded_border {
+	border: 3px solid black;
+	border-radius: 35%;
+
+}
+
+.button_list{
+	display: block;
+}
+
+.rounded {
+	border-radius: 55%;
+}
+
+.bold {
+	font-weight: 800;
+}
+
+.boldplus {
+	font-weight: bolder;
+	font-style: italic;
+}
+
+ button {
+	display: block;
+}
